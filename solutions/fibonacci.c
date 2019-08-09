@@ -8,7 +8,6 @@ int main() {
 	printf("Please input n: \n");
 	scanf("%d", &n);
 	nth_element(n);
-
 }
 
 void nth_element (int n){
